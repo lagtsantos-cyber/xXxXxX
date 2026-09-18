@@ -1,10 +1,10 @@
 Site clonado com Ads Searcher — https://adsearcher.pro/dashboard/clonagem
 
-Origem:  https://fureafila.com.br/concurso-b/
-Data:    2026-09-18T17:03:15.949Z
-HTML:    274.320 bytes
-Arquivos: 244 baixados de 245 encontrados
-Tamanho total: 19.83 MB
+Origem:  https://lp.pierre.finance/
+Data:    2026-09-18T19:35:48.706Z
+HTML:    239.888 bytes
+Arquivos: 87 baixados de 87 encontrados
+Tamanho total: 9.71 MB
 
 Como usar:
   1. Extraia o zip.
@@ -13,12 +13,11 @@ Como usar:
        # ou
        python3 -m http.server 8080
 
-1 arquivo(s) não vieram e continuaram apontando pro site de
-origem — eles carregam com internet, mas não offline.
+Todos os arquivos encontrados foram baixados.
 
 Sites que dependem de JavaScript pesado (SPA React/Vue), APIs externas
 ou login podem não renderizar igual. Landing pages e sites de conteúdo
 costumam ficar idênticos.
 
 Avisos (1):
-  - https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.min.js: HTTP 403
+  - https://lp.pierre.finance/cdn-cgi/l/email-protection: HTTP 404
